@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "vs-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "start-dev":"nodemon new2.js"
+  },
+  "keywords": [],
+  "author": "Nazmul Islam Shipu",
+  "license": "ISC",
+  "description": "this my first project"
+}
